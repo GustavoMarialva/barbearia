@@ -53,14 +53,6 @@ const list = [
     date: "10/09/2024",
     type: 0, //despesas
   },
-
-  {
-    id: 7,
-    label: "Pagamento Cliente G",
-    value: "175,00",
-    date: "22/09/2024",
-    type: 1, //receita
-  },
 ];
 
 export default function Home() {
