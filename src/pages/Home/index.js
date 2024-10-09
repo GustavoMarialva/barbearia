@@ -29,6 +29,38 @@ const list = [
     date: "15/09/2024",
     type: 1, //receita
   },
+
+  {
+    id: 4,
+    label: "Venda produto XW187Q",
+    value: "97,00",
+    date: "15/09/2024",
+    type: 1, //receita
+  },
+
+  {
+    id: 5,
+    label: "Boleto internet",
+    value: "99,99",
+    date: "10/09/2024",
+    type: 0, //despesas
+  },
+
+  {
+    id: 6,
+    label: "Boleto conta de água",
+    value: "115,90",
+    date: "10/09/2024",
+    type: 0, //despesas
+  },
+
+  {
+    id: 7,
+    label: "Pagamento Cliente G",
+    value: "175,00",
+    date: "22/09/2024",
+    type: 1, //receita
+  },
 ];
 
 export default function Home() {
